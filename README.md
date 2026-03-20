@@ -8,7 +8,7 @@ Push-to-talk voice dictation for macOS.
 
 <p>
   <a href="https://github.com/harperrrdesign/Sayit/releases/latest">
-    <img alt="下载 Sayit 最新版本" src="./assets/download-latest-button.svg" width="420">
+    <img alt="下载 Sayit 最新版本" src="./assets/download-latest-button.svg" width="334">
   </a>
 </p>
 
