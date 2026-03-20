@@ -7,7 +7,6 @@ Push-to-talk voice dictation for macOS.
 ## 下载
 
 - [下载最新版](https://github.com/harperrrdesign/Sayit/releases/latest)
-- [直接下载当前版本（v0.1.3）](https://github.com/harperrrdesign/Sayit/releases/download/v0.1.3/Sayit-v0.1.3.zip)
 
 ## 这是什么
 
